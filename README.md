@@ -1,6 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/imrishab)
+[![MasterHead](![GitHub Banner](./github%20banner%20main%202000px.gif)
+)](https://github.com/imrishab)
 
-<h1 align="center">Hi 👋, I'm Rishabh kumar</h1>
+<h1 align="center">Hi 👋, I'm Rishabh </h1>
 <h3 align="center" >❣️ A passionate developer from India ❣️</h3>
 <br/>
 <br/>

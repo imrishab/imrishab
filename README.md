@@ -24,7 +24,7 @@
 
 - Understanding the markets  📉
 
-- ⚡ Fun fact **I can solve a rubix cube under 20 seconds 😬**
+- ⚡ Fun fact **Fun fact: I can solve a Rubik's Cube in under 20 seconds, but debugging code sometimes feels like solving a Rubik's Cube blindfolded with tangled strings! 😬**
 
 
 

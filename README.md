@@ -1,6 +1,7 @@
 [![MasterHead](![GitHub Banner](./github%20banner%20main%202000px.gif)
 )](https://github.com/imrishab)
 
+<br/>
 <h1 align="center">Hi 👋, I'm Rishabh </h1>
 <h3 align="center" >❣️ A passionate developer from India ❣️</h3>
 <br/>

@@ -15,7 +15,7 @@
 <h3> I am a first year Computer Science student trying to contribute to the community with whatever i learnt so far.</h3>
 
 
-<h3> Hobbies 😆: </h3>
+<h3> Hobbies 😇: </h3>
 
 - Coding 👨‍💻
 
